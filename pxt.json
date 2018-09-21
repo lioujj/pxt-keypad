@@ -1,0 +1,15 @@
+{
+    "name": "keypad",
+    "version": "0.0.1",
+    "description": "這是專為micro:bit提供的3*4鍵盤積木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/keypad-strings.json"
+    ],
+    "public": true
+}
