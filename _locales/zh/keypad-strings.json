@@ -1,6 +1,6 @@
 {
     "keypad|block": "鍵盤",
-    "keypad.setKeyPad3|block": "設定鍵盤腳位 : 腳位1 %pin1|腳位2 %pin2|腳位3 %pin3|腳位4 %pin4|腳位5 %pin5|腳位6 %pin6|腳位7 %pin7",
-    "keypad.setKeyPad4|block": "設定鍵盤腳位 : 腳位1 %pin1|腳位2 %pin2|腳位3 %pin3|腳位4 %pin4|腳位5 %pin5|腳位6 %pin6|腳位7 %pin7|腳位8 %pin8",
+    "keypad.setKeyPad3|block": "設定3*4鍵盤腳位 : 腳位1 %pin1|腳位2 %pin2|腳位3 %pin3|腳位4 %pin4|腳位5 %pin5|腳位6 %pin6|腳位7 %pin7",
+    "keypad.setKeyPad4|block": "設定4*4鍵盤腳位 : 腳位1 %pin1|腳位2 %pin2|腳位3 %pin3|腳位4 %pin4|腳位5 %pin5|腳位6 %pin6|腳位7 %pin7|腳位8 %pin8",
     "keypad.getKeyString|block": "取得按鍵值(字串)"
 }
