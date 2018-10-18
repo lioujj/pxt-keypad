@@ -14,6 +14,9 @@ Liou Zheng-Ji\
 ## Video
 [![click here to see the sample video](https://img.youtube.com/vi/gc5u5fSmZOM/0.jpg)](https://www.youtube.com/watch?v=gc5u5fSmZOM)
 
+## Sample1 3x4 keypad
+![image](images/sample1.jpg)
+
 ## License
 
 * MIT
