@@ -6,7 +6,7 @@ namespace keypad {
         ["1", "4", "7", "*"],
         ["2", "5", "8", "0"],
         ["3", "6", "9", "#"],
-		["A", "B", "C", "D"]
+        ["A", "B", "C", "D"]
     ];
     let maxPins=3;
 
@@ -27,7 +27,7 @@ namespace keypad {
         columns[0] = pin5;
         columns[1] = pin6;
         columns[2] = pin7;
-		maxPins=3;
+        maxPins=3;
     }
 
     //% blockId=setKeyPad4 block="set 4*4 KeyPad pins : pin1 %pin1|pin2 %pin2|pin3 %pin3|pin4 %pin4|pin5 %pin5|pin6 %pin6|pin7 %pin7|pin8 %pin8" blockExternalInputs=false
@@ -49,7 +49,7 @@ namespace keypad {
         columns[1] = pin6;
         columns[2] = pin7;
         columns[3] = pin8;
-		maxPins=4;
+        maxPins=4;
     }
 
     //% blockId=getKeyString block="KeyPad value(string)"
